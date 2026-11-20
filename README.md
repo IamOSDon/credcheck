@@ -8,7 +8,7 @@ make sure you have Netexec
 nxc --version
 
 If it is missing:
-sudo apt update
+sudo apt update && 
 sudo apt install netexec
 
 To load it automatically in new terminals:
